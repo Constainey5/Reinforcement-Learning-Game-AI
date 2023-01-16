@@ -1,3 +1,4 @@
 Commit on 2023-01-04 09:54:28: Fix API response format in Reinforcement-Learning-Game-AI
 Commit on 2023-01-05 14:24:56: perf: Optimize Reinforcement-Learning-Game-AI performance
 Commit on 2023-01-09 17:43:37: ci: Configure CI/CD pipeline for Reinforcement-Learning-Game-AI
+Commit on 2023-01-16 15:29:49: build: Update build configuration for Reinforcement-Learning-Game-AI
