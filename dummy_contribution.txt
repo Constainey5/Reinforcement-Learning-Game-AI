@@ -5,3 +5,4 @@ Commit on 2023-01-16 15:29:49: build: Update build configuration for Reinforceme
 Commit on 2023-01-17 12:10:18: Implement database schema in Reinforcement-Learning-Game-AI
 Commit on 2023-01-17 17:03:42: Merge pull request #36 from feature/ui-improvements
 Commit on 2023-01-18 11:22:20: docs: Update README for Reinforcement-Learning-Game-AI
+Commit on 2023-01-26 17:36:41: feat: Add new feature for Reinforcement-Learning-Game-AI
