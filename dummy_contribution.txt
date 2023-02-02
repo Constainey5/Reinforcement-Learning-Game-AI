@@ -8,3 +8,4 @@ Commit on 2023-01-18 11:22:20: docs: Update README for Reinforcement-Learning-Ga
 Commit on 2023-01-26 17:36:41: feat: Add new feature for Reinforcement-Learning-Game-AI
 Commit on 2023-01-31 16:27:59: perf: Optimize Reinforcement-Learning-Game-AI performance
 Commit on 2023-01-31 17:49:44: feat: Add new feature for Reinforcement-Learning-Game-AI
+Commit on 2023-02-02 13:57:20: docs: Update README for Reinforcement-Learning-Game-AI
