@@ -23,3 +23,4 @@ Commit on 2023-04-04 11:45:01: chore: Update dependencies for Reinforcement-Lear
 Commit on 2023-04-04 15:19:08: refactor: Improve code readability in Reinforcement-Learning-Game-AI
 Commit on 2023-04-10 17:38:10: perf: Optimize Reinforcement-Learning-Game-AI performance
 Commit on 2023-04-19 11:39:01: style: Format code according to standards in Reinforcement-Learning-Game-AI
+Commit on 2023-04-28 17:01:38: Fix API response format in Reinforcement-Learning-Game-AI
