@@ -26,3 +26,4 @@ Commit on 2023-04-19 11:39:01: style: Format code according to standards in Rein
 Commit on 2023-04-28 17:01:38: Fix API response format in Reinforcement-Learning-Game-AI
 Commit on 2023-05-01 11:15:53: feat: Add new feature for Reinforcement-Learning-Game-AI
 Commit on 2023-05-01 15:10:16: chore: Update dependencies for Reinforcement-Learning-Game-AI
+Commit on 2023-05-02 13:09:59: Merge pull request #3 from feature/model-training
