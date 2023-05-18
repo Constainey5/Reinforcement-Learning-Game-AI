@@ -30,3 +30,4 @@ Commit on 2023-05-02 13:09:59: Merge pull request #3 from feature/model-training
 Commit on 2023-05-09 17:13:43: Implement data validation in Reinforcement-Learning-Game-AI
 Commit on 2023-05-11 11:36:37: Initial commit for Reinforcement-Learning-Game-AI
 Commit on 2023-05-12 14:04:50: ci: Configure CI/CD pipeline for Reinforcement-Learning-Game-AI
+Commit on 2023-05-18 12:29:06: Fix UI glitch in Reinforcement-Learning-Game-AI
