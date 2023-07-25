@@ -46,3 +46,4 @@ Commit on 2023-07-10 14:08:02: Fix race condition in Reinforcement-Learning-Game
 Commit on 2023-07-10 17:40:23: test: Add unit tests for Reinforcement-Learning-Game-AI functionality
 Commit on 2023-07-18 10:49:03: style: Format code according to standards in Reinforcement-Learning-Game-AI
 Commit on 2023-07-19 13:10:21: Implement data validation in Reinforcement-Learning-Game-AI
+Commit on 2023-07-25 12:59:30: docs: Update README for Reinforcement-Learning-Game-AI
