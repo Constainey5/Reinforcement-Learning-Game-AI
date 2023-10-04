@@ -64,3 +64,4 @@ Commit on 2023-09-22 15:13:16: refactor: Improve code readability in Reinforceme
 Commit on 2023-09-26 14:49:56: test: Add unit tests for Reinforcement-Learning-Game-AI functionality
 Commit on 2023-09-29 09:19:44: test: Add unit tests for Reinforcement-Learning-Game-AI functionality
 Commit on 2023-09-29 10:34:23: Merge pull request #47 from feature/api-integration
+Commit on 2023-10-04 14:36:10: Fix memory leak in Reinforcement-Learning-Game-AI
