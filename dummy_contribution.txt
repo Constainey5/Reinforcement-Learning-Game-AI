@@ -80,3 +80,4 @@ Commit on 2023-11-27 12:51:19: Initial commit for Reinforcement-Learning-Game-AI
 Commit on 2023-11-29 11:31:42: perf: Optimize Reinforcement-Learning-Game-AI performance
 Commit on 2023-12-01 13:45:41: perf: Optimize Reinforcement-Learning-Game-AI performance
 Commit on 2023-12-07 14:24:32: build: Update build configuration for Reinforcement-Learning-Game-AI
+Commit on 2023-12-13 15:11:54: docs: Update README for Reinforcement-Learning-Game-AI
