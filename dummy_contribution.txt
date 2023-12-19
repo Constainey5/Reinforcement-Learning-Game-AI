@@ -84,3 +84,4 @@ Commit on 2023-12-13 15:11:54: docs: Update README for Reinforcement-Learning-Ga
 Commit on 2023-12-15 14:56:08: fix: Resolve bug in Reinforcement-Learning-Game-AI module
 Commit on 2023-12-18 12:20:53: Merge pull request #91 from feature/model-training
 Commit on 2023-12-18 15:35:18: style: Format code according to standards in Reinforcement-Learning-Game-AI
+Commit on 2023-12-19 11:17:58: Fix incorrect data parsing in Reinforcement-Learning-Game-AI
