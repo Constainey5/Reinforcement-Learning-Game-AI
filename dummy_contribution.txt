@@ -87,3 +87,4 @@ Commit on 2023-12-18 15:35:18: style: Format code according to standards in Rein
 Commit on 2023-12-19 11:17:58: Fix incorrect data parsing in Reinforcement-Learning-Game-AI
 Commit on 2023-12-20 12:10:02: Implement user authentication in Reinforcement-Learning-Game-AI
 Commit on 2024-01-08 12:16:48: test: Add unit tests for Reinforcement-Learning-Game-AI functionality
+Commit on 2024-01-26 14:29:36: Implement database schema in Reinforcement-Learning-Game-AI
