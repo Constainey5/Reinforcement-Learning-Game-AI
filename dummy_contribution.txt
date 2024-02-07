@@ -90,3 +90,4 @@ Commit on 2024-01-08 12:16:48: test: Add unit tests for Reinforcement-Learning-G
 Commit on 2024-01-26 14:29:36: Implement database schema in Reinforcement-Learning-Game-AI
 Commit on 2024-02-02 17:24:18: Fix UI glitch in Reinforcement-Learning-Game-AI
 Commit on 2024-02-06 15:47:55: Implement logging mechanism in Reinforcement-Learning-Game-AI
+Commit on 2024-02-07 11:59:51: build: Update build configuration for Reinforcement-Learning-Game-AI
