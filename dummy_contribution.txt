@@ -93,3 +93,4 @@ Commit on 2024-02-06 15:47:55: Implement logging mechanism in Reinforcement-Lear
 Commit on 2024-02-07 11:59:51: build: Update build configuration for Reinforcement-Learning-Game-AI
 Commit on 2024-02-23 10:51:31: Fix incorrect data parsing in Reinforcement-Learning-Game-AI
 Commit on 2024-02-27 11:15:54: Enhance model architecture in Reinforcement-Learning-Game-AI
+Commit on 2024-03-01 11:44:46: ci: Configure CI/CD pipeline for Reinforcement-Learning-Game-AI
