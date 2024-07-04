@@ -115,3 +115,4 @@ Commit on 2024-06-18 10:17:36: perf: Optimize Reinforcement-Learning-Game-AI per
 Commit on 2024-06-19 11:07:14: Implement user authentication in Reinforcement-Learning-Game-AI
 Commit on 2024-06-19 15:45:03: ci: Configure CI/CD pipeline for Reinforcement-Learning-Game-AI
 Commit on 2024-07-03 13:30:24: style: Format code according to standards in Reinforcement-Learning-Game-AI
+Commit on 2024-07-04 15:39:59: Fix UI glitch in Reinforcement-Learning-Game-AI
