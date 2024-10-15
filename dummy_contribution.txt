@@ -132,3 +132,4 @@ Commit on 2024-09-26 12:22:30: Enhance model architecture in Reinforcement-Learn
 Commit on 2024-09-27 10:52:33: docs: Update README for Reinforcement-Learning-Game-AI
 Commit on 2024-10-11 09:14:50: ci: Configure CI/CD pipeline for Reinforcement-Learning-Game-AI
 Commit on 2024-10-11 10:50:52: test: Add unit tests for Reinforcement-Learning-Game-AI functionality
+Commit on 2024-10-15 17:38:11: Merge pull request #4 from feature/model-training
