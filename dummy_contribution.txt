@@ -136,3 +136,4 @@ Commit on 2024-10-15 17:38:11: Merge pull request #4 from feature/model-training
 Commit on 2024-10-16 11:23:20: Fix race condition in Reinforcement-Learning-Game-AI
 Commit on 2024-10-17 10:16:23: refactor: Improve code readability in Reinforcement-Learning-Game-AI
 Commit on 2024-10-25 15:07:03: style: Format code according to standards in Reinforcement-Learning-Game-AI
+Commit on 2024-10-29 14:22:22: build: Update build configuration for Reinforcement-Learning-Game-AI
